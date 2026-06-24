@@ -1,17 +1,17 @@
-What is an if statement?
-- executes a block of code if the condition evaluates to True
+What is input()?
 
-What is an else statement?
-- executes when the if condition evaluates to False
+It allows the user to enter data.
 
-What is an elif statement?
-- allows checking multiple conditions sequentially.
+What is print()?
 
-Why are conditionals important in automation?
-- If the the result is True, then it is Pass, otherwise its Fail
+Displays information to the screen.
 
-Important Concept
+What is an f-string?
 
-if/elif/else is evaluated top to bottom.
+Used to insert variables into text.
 
-Once Python finds a condition that is True, it executes that block and skips the rest.
+QA Example
+
+Example:
+
+A login page accepts user input using text fields.
